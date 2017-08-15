@@ -5,6 +5,8 @@ int main()
   printf("aaaaaaaa\n");
   printf("kjkjkjkljlkjlkjjl\n");
   printf("*************************\n");
+   printf("*************************\n");
+   printf("*************************\n");
   getchar();
   return 0;
 }
